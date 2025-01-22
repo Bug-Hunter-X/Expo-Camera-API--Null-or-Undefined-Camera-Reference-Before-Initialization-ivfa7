@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and attempting to access the camera's features before the camera has fully initialized.  This often manifests as a `null` or `undefined` value when trying to access properties like `cameraRef.current` or related methods.
